@@ -1,6 +1,6 @@
 # Critical Objects
 
-Pedro Galvao Cesar de Oliveira  
+Pedro de Oliveira  
 pedro.itp@nyu.edu  
 NYU ITP, Spring 2019  
 MON 3:20-5:50pm
