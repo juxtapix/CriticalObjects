@@ -24,6 +24,7 @@ This is a production heavy four-credit course, where students will learn about n
 ### #2: Disobedient Electronics
 - Disobedient Electronics
 - Workshop: Intro to ESP32
+- Assignment
 
 ### #3: A Different Type of Design
 - Design Principals
