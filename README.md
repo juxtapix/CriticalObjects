@@ -55,7 +55,6 @@ This is a production heavy four-credit course, where students will learn about n
 
 ### #9: Meaningful and Uncomfortable Interactions
 - Designing meaningful and Uncomfortable Interactions
-- Guest Speaker
 - Discussion
 - Assignment
 
