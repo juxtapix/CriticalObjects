@@ -10,7 +10,7 @@
 #include <ArduinoJson.h>
 
 const char* ssid = "<SSID>";
-const char* password = "<PASSWORD>";
+const char* password = "<PASS>";
 
 const String endpoint = "http://arduinojson.org/";
 const String key = "example.json";

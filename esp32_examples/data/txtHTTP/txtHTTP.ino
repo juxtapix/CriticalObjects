@@ -9,7 +9,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "<SSID>";
-const char* password = "<PASSWORD>";
+const char* password = "<PASS>";
 
 const String endpoint = "https://eloquentjavascript.net/1st_edition/files/";
 const String key = "fruit.txt";

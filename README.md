@@ -1,6 +1,6 @@
 # Critical Objects
 
-Pedro de Oliveira  
+Pedro Oliveira  
 pedro.itp@nyu.edu  
 NYU ITP, Spring 2019  
 MON 3:20-5:50pm
@@ -24,6 +24,7 @@ This is a production heavy four-credit course, where students will learn about n
 ### #2: Disobedient Electronics
 - Disobedient Electronics
 - Workshop: Intro to ESP32
+- Assignment
 
 ### #3: A Different Type of Design
 - Design Principals
@@ -51,20 +52,17 @@ This is a production heavy four-credit course, where students will learn about n
 ### #8: Raspberry Pi 101
 - Workshop: Intro to Raspberry Pi
 
-
-### #9: Meaningful and Uncomfortable Interactions
-- Designing meaningful and Uncomfortable Interactions
-- Guest Speaker
+### #9: Aesthetics, Prosthetics and Politics
+- Critical Objects and Body Politics
 - Discussion
 - Assignment
-
 
 ### #10: Raspberry Pi 202
 - "Is a pi the best solution for my Critical Object?""
 - Workshop: Raspberry Pi 202
 
-### #11: Aesthetics, Prosthetics and Politics
-- Critical Objects and Body Politics
+### #11: Meaningful and Uncomfortable Interactions
+- Designing meaningful and Uncomfortable Interactions
 - Assignment (Final)
 
 ### #12: Up forever
