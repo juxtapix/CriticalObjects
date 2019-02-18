@@ -16,63 +16,63 @@ This is a production heavy four-credit course, where students will learn about n
 
 
 ## Syllabus
-### #1: Introduction to Critical Objects
+### #1: Introduction to Critical Objects (01/28/19)
 - Goals and Requirements
 - Introduction to Critical Objects
 - Assignment
 
-### #2: Disobedient Electronics
+### #2: Disobedient Electronics (02/04/19)
 - Disobedient Electronics
 - Workshop: Intro to ESP32
 - Assignment
 
-### #3: A Different Type of Design
+### #3: A Different Type of Design (02/11/19)
 - Design Principals
 - Anti Design / Radical Design / Critical Design
 - Assignment
 
-### #4: From Props To Prototypes
+### #4: From Props To Prototypes (02/25/19)
 - Design Fiction x Critical Making
 - Workshop: In class design exercise (Prototyping)
 
-### #5: Disobedient Objects (Design and Activism)
+### #5: Disobedient Objects / Design and Activism (03/04/19)
 - Disobedient Objects
 - Design for protest
 - Assignment (Midterms)
 
-### #6: Appropriating Technology
+### #6: Appropriating Technology (03/11/19)
 - Hacking
 - Technological Disobedience
 - Appropriating Technology
 - Discussion
 
-### #7: Midterms
+### #7: Midterms (03/25/19)
 - Midterms Presentations and Critique
 
-### #8: Raspberry Pi 101
+### #8: Raspberry Pi 101 (04/01/19)
 - Workshop: Intro to Raspberry Pi
 
-### #9: Aesthetics, Prosthetics and Politics
+### #9: Aesthetics, Prosthetics and Politics (04/08/19)
 - Critical Objects and Body Politics
 - Discussion
 - Assignment
 
-### #10: Raspberry Pi 202
+### #10: Raspberry Pi 202 (04/15/19)
 - "Is a pi the best solution for my Critical Object?""
 - Workshop: Raspberry Pi 202
 
-### #11: Meaningful and Uncomfortable Interactions
+### #11: Meaningful and Uncomfortable Interactions (04/22/19)
 - Designing meaningful and Uncomfortable Interactions
 - Assignment (Final)
 
-### #12: Up forever
+### #12: Up forever (04/29/19)
 - Best practices to keep an installation up forever
 - Workshop: bash scripts / applescripts / automators
 
-### #13: Work Session
+### #13: Work Session (05/06/19)
 - Work Session / Help Session
 
-### #14: Finals
+### #14: Finals (05/13/19)
 - Finals Presentations and Critique
 
 ## Requirements
