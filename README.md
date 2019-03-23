@@ -36,9 +36,7 @@ This is a production heavy four-credit course, where students will learn about n
 - Workshop: In class design exercise (Prototyping)
 
 ### #5: Disobedient Objects / Design and Activism (03/04/19)
-- Disobedient Objects
-- Design for protest
-- Assignment (Midterms)
+- (CLASS CANCELLED)
 
 ### #6: Appropriating Technology (03/11/19)
 - Hacking
@@ -46,30 +44,39 @@ This is a production heavy four-credit course, where students will learn about n
 - Appropriating Technology
 - Discussion
 
-### #7: Midterms (03/25/19)
-- Midterms Presentations and Critique
+### #7: Pin-UP / Work Session (03/25/19)
+- Midterms Pin-UP / Work Session
 
-### #8: Raspberry Pi 101 (04/01/19)
+### #8: Midterms (04/01/19)
+- Midterms Presentations
+- Assignment (Body Politics)
+
+### Make-Up Class: Raspberry Pi 101 (04/06/19)
 - Workshop: Intro to Raspberry Pi
 
 ### #9: Aesthetics, Prosthetics and Politics (04/08/19)
 - Critical Objects and Body Politics
+- Guest Speaker
 - Discussion
-- Assignment
 
-### #10: Raspberry Pi 202 (04/15/19)
-- "Is a pi the best solution for my Critical Object?""
-- Workshop: Raspberry Pi 202
-
-### #11: Meaningful and Uncomfortable Interactions (04/22/19)
-- Designing meaningful and Uncomfortable Interactions
+### #10: Disobedient Objects / Design and Activism (04/15/19)
+- Disobedient Objects
+- Design for protest
+- Discussion
 - Assignment (Final)
 
-### #12: Up forever (04/29/19)
-- Best practices to keep an installation up forever
-- Workshop: bash scripts / applescripts / automators
+### #11: Raspberry Pi 202 (04/22/19)
+- Assignment Presentations (Body Politics)
+- "Is a pi the best solution for my Critical Object?"
+- Workshop: Raspberry Pi 202
 
-### #13: Work Session (05/06/19)
+### #12: Meaningful and Uncomfortable Interactions (04/29/19)
+- Designing meaningful and Uncomfortable Interactions
+
+### #13: Up forever / Pin-UP / Work Session (05/06/19)
+- Pin-UP Session
+- Best practices to keep an installation up forever
+- Bash scripts / Applescripts / Automators
 - Work Session / Help Session
 
 ### #14: Finals (05/13/19)
