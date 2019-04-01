@@ -49,7 +49,7 @@ This is a production heavy four-credit course, where students will learn about n
 
 ### #8: Midterms (04/01/19)
 - Midterms Presentations
-- Assignment (Body Politics)
+- [Assignment (Body Politics)](https://github.com/juxtapix/CriticalObjects/wiki/08.-Midterms#assignment---body-politcs)
 
 ### Make-Up Class: Raspberry Pi 101 (04/06/19)
 - Workshop: Intro to Raspberry Pi
