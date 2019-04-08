@@ -56,7 +56,7 @@ This is a production heavy four-credit course, where students will learn about n
 
 ### #9: Aesthetics, Prosthetics and Politics (04/08/19)
 - Critical Objects and Body Politics
-- Guest Speaker
+- Guest Speaker: [Ani Liu](https://ani-liu.com/)
 - Discussion
 
 ### #10: Disobedient Objects / Design and Activism (04/15/19)
