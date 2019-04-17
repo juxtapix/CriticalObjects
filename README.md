@@ -63,7 +63,7 @@ This is a production heavy four-credit course, where students will learn about n
 - Disobedient Objects
 - Design for protest
 - Discussion
-- Assignment (Final)
+- [Assignment (Final)](https://github.com/juxtapix/CriticalObjects/wiki/10.-Disobedient-Objects#final-assignment)
 
 ### #11: Raspberry Pi 202 (04/22/19)
 - Assignment Presentations (Body Politics)
