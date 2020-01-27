@@ -1,8 +1,8 @@
 # Critical Objects
 
 Pedro Oliveira  
-pedro.itp@nyu.edu  
-NYU ITP, Spring 2019  
+pedro.itp(at)nyu.edu  
+NYU ITP, Spring 2020  
 MON 3:20-5:50pm
 
 ## Overview
@@ -14,72 +14,77 @@ In this 14 week class, students will combine technology, design, and critical th
 This is a production heavy four-credit course, where students will learn about new-media critical theory, design and electronics.
 
 
-
 ## Syllabus
-### #1: Introduction to Critical Objects (01/28/19)
+### #1: Introduction to Critical Objects (01/27/20)
 - Goals and Requirements
 - Introduction to Critical Objects
-- Assignment
+- [Assignment 1](https://github.com/juxtapix/CriticalObjects/wiki/01.-Critical-Objects#assignment) _Due: 02/10/20 Class 3_
 
-### #2: Disobedient Electronics (02/04/19)
+### #2: Disobedient Electronics (02/03/20)
 - Disobedient Electronics
 - Workshop: Intro to ESP32
-- Assignment
 
-### #3: A Different Type of Design (02/11/19)
+### #3: A Different Type of Design (02/10/20)
+- Present Assignment 1
 - Design Principals
 - Anti Design / Radical Design / Critical Design
-- Assignment
+- Assignment 2 _Due: 02/24/20 Class 4_
 
-### #4: From Props To Prototypes (02/25/19)
+###  President's Day, No Class (02/17/20)
+
+### #4: Disobedient Objects / Design and Activism (02/24/20)
+- Present Assignment 2
+- Disobedient Objects
+- Design for protest
+- Discussion
+- Midterms _Due: 03/23/20 Class 7_
+
+### #5: From Props To Prototypes (03/02/20)
 - Design Fiction x Critical Making
-- Workshop: In class design exercise (Prototyping)
+- Workshop: In-class design exercise (Prototyping)
 
-### #5: Disobedient Objects / Design and Activism (03/04/19)
-- (CLASS CANCELLED)
+### #6: Pin-UP / Work Session (03/09/20)
+- Midterms Pin-UP / Work Session
 
-### #6: Appropriating Technology (03/11/19)
+###  SPRING BREAK (03/16/20)
+
+
+### #7: Midterms (03/23/20)
+- Midterms Presentations
+
+
+### #8: Aesthetics, Prosthetics and Politics (03/30/20)
+- Critical Objects and Body Politics
+- Discussion
+- Assignment 3 _Due: 04/13/20 Class 10_
+
+### #9: Appropriating Technology (04/06/20)
 - Hacking
 - Technological Disobedience
 - Appropriating Technology
 - Discussion
 
-### #7: Pin-UP / Work Session (03/25/19)
-- Midterms Pin-UP / Work Session
 
-### #8: Midterms (04/01/19)
-- Midterms Presentations
-- [Assignment (Body Politics)](https://github.com/juxtapix/CriticalObjects/wiki/08.-Midterms#assignment---body-politcs)
-
-### Make-Up Class: Raspberry Pi 101 (04/06/19)
-- Workshop: Intro to Raspberry Pi
-
-### #9: Aesthetics, Prosthetics and Politics (04/08/19)
-- Critical Objects and Body Politics
-- Guest Speaker: [Ani Liu](https://ani-liu.com/)
-- Discussion
-
-### #10: Disobedient Objects / Design and Activism (04/15/19)
-- Disobedient Objects
-- Design for protest
-- Discussion
-- [Assignment (Final)](https://github.com/juxtapix/CriticalObjects/wiki/10.-Disobedient-Objects#final-assignment)
-
-### #11: Raspberry Pi 202 (04/22/19)
-- Assignment Presentations (Body Politics)
-- "Is a pi the best solution for my Critical Object?"
-- Workshop: Raspberry Pi 202
-
-### #12: Meaningful and Uncomfortable Interactions (04/29/19)
+### #10: Meaningful and Uncomfortable Interactions (04/13/20)
+- Present Assignment 3
 - Designing meaningful and Uncomfortable Interactions
+- Finals _Due: 05/11/20 Class 14_
 
-### #13: Up forever / Pin-UP / Work Session (05/06/19)
-- Pin-UP Session
+
+### #11: Raspberry Pi Workshop (04/20/20)
+- "Is a pi the best solution for my Critical Object?"
+- Workshop: Raspberry Pi
+
+
+### #12: Pin-UP (04/27/20)
+- Finals Pin-UP Session
+
+### #13: Up forever / Work Session (05/04/20)
 - Best practices to keep an installation up forever
 - Bash scripts / Applescripts / Automators
 - Work Session / Help Session
 
-### #14: Finals (05/13/19)
+### #14: Finals (05/11/20)
 - Finals Presentations and Critique
 
 ## Requirements
@@ -88,19 +93,20 @@ This is a production heavy four-credit course, where students will learn about n
  Prerequisites include an open mind, the drive to make, and physical computing.
 
 **Assessment**  
-Class Participation: ***40%***  
-Assignments: ***30%***  
-Final Project: ***30%***  
-More than one unexcused absence will result in a failing grade. Arriving to two classes more than 15 minutes late counts as an absence. Please notify me as early as possible if you are unable to come to class.
-Assigments should be posted online 24h before the class.
+Class Participation:        ***30%***   
+Assignments:                ***30%***   
+Midterm and Final Projects: ***40%***   
+
+More than two absences will result in a failing grade. Arriving to two classes more than 15 minutes late counts as an absence. Please notify me as early as possible if you are unable to come to class.
+Assignments should be posted online 24h before the class.
 
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
 
 **Conduct**  
-This class meets every Monday from 3:20pm to 5:50pm.
-Please be punctual and respectful. Assignment due dates are hard deadlines.
-Laptops must be closed while fellow classmates are presenting work. Please be respectful with each other.
+This class meets every Monday from 3:20pm to 5:50pm - Please be punctual and respectful.   
+Assignment due dates are hard deadlines. Laptops must be closed while fellow classmates are presenting work.   
+The nature of this class allows for politically charged and socially engaged topics that might challenge your own beliefs - Please be respectful and generous with each other.
 
 ## Statement of Academic Integrity
 
@@ -120,4 +126,4 @@ Your health and safety are a priority at NYU. If you experience any health or me
 
 ## Statement on use of Electronic Devices
 
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lectures. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
