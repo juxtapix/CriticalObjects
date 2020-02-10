@@ -28,7 +28,7 @@ This is a production heavy four-credit course, where students will learn about n
 - Present Assignment 1
 - Design Principals
 - Anti Design / Radical Design / Critical Design
-- Assignment 2 _Due: 02/24/20 Class 4_
+- [Assignment 2](https://github.com/juxtapix/CriticalObjects/wiki/03.-A-Different-Type-of-Design#assignment) _Due: 02/24/20 Class 4_
 
 ###  President's Day, No Class (02/17/20)
 
